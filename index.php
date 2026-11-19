@@ -1773,6 +1773,7 @@ $profileBackgroundClass = $profileBackgroundClassNames[$profileSettings['backgro
                         'undervisere' => 'Undervisere',
                         'reservationer' => 'Computerreservationer',
                         'blacklist' => 'Blacklisted lånere',
+                        'tidligere_laan' => 'Tidligere udlån',
                         'admin_requests' => 'Adminansøgninger',
                         'admins' => 'Administratorer',
                     ][$view]) ?></h2>
